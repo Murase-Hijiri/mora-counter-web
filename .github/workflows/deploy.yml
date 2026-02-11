@@ -23,6 +23,9 @@ jobs:
         with:
           node-version: '20'
           cache: 'pnpm'
+
+      - run: curl https://drager.github.io/wasm-pack/installer/init.sh -sSf | sh
+        
       
       - run: pnpm install
       
