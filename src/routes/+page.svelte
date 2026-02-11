@@ -1,4 +1,4 @@
-<head>
+<svelte:head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="google-site-verification" content="I28dxke1LaLkwkxT-PgsNbiy1rOQAe-iRs-YsQnzgh0" />
@@ -11,7 +11,7 @@
   <meta property="og:description" content="日本語テキストのモーラ数を測定するツール" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://murase-hijiri.github.io/mora-counter-web/" />
-</head>
+</svelte:head>
 
 <script lang="ts">
     import { onMount } from "svelte";
