@@ -1,3 +1,18 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="google-site-verification" content="I28dxke1LaLkwkxT-PgsNbiy1rOQAe-iRs-YsQnzgh0" />
+  
+  <title>モーラカウンター - 日本語テキストのモーラ数測定ツール</title>
+  <meta name="description" content="日本語のテキストを入力するだけで、モーラ数を簡単にカウントできる無料のWebツールです。" />
+  <meta name="keywords" content="モーラ,モーラ数,カウンター,日本語,プレゼン,文字数,発表" />
+  
+  <meta property="og:title" content="モーラカウンター" />
+  <meta property="og:description" content="日本語テキストのモーラ数を測定するツール" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://murase-hijiri.github.io/mora-counter-web/" />
+</head>
+
 <script lang="ts">
     import { onMount } from "svelte";
 
