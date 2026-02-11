@@ -14,6 +14,13 @@
   <meta property="og:image" content="https://murase-hijiri.github.io/mora-counter-web/ogp.png" />
   <meta property="og:imega:width" content="1200"/>
   <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="twitter:domain" content="murase-hijiri.github.io" />
+  <meta property="twitter:url" content="https://murase-hijiri.github.io/mora-counter-web/" />
+  <meta name="twitter:title" content="モーラカウンター" />
+  <meta name="twitter:description" content="日本語テキストのモーラ数を測定するツール" />
+  <meta name="twitter:site" content="@MEET_KuDenDen" />
+  <meta name="twitter:image" content="https://murase-hijiri.github.io/mora-counter-web/ogp.png" />
 </svelte:head>
 
 <script lang="ts">
