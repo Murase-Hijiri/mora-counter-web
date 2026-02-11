@@ -11,6 +11,9 @@
   <meta property="og:description" content="日本語テキストのモーラ数を測定するツール" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://murase-hijiri.github.io/mora-counter-web/" />
+  <meta property="og:image" content="$(lib)/assets/ogp.png" />
+  <meta property="og:imega:width" content="1200"/>
+  <meta property="og:image:height" content="630" />
 </svelte:head>
 
 <script lang="ts">
